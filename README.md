@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/mdSamir052005/Myleetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/mdSamir052005/Myleetcode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -22,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/mdSamir052005/Myleetcode/tree/master/0412-fizz-buzz) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/mdSamir052005/Myleetcode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/mdSamir052005/Myleetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
