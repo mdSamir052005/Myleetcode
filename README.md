@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/mdSamir052005/Myleetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/mdSamir052005/Myleetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/mdSamir052005/Myleetcode/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/mdSamir052005/Myleetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/mdSamir052005/Myleetcode/tree/master/0412-fizz-buzz) |
 ## Hash Table
 |  |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/mdSamir052005/Myleetcode/tree/master/0217-contains-duplicate) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/mdSamir052005/Myleetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
