@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/mdSamir052005/Myleetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mdSamir052005/Myleetcode/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
@@ -12,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/mdSamir052005/Myleetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mdSamir052005/Myleetcode/tree/master/0075-sort-colors) |
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/mdSamir052005/Myleetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mdSamir052005/Myleetcode/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
