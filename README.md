@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/mdSamir052005/Myleetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mdSamir052005/Myleetcode/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/mdSamir052005/Myleetcode/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/mdSamir052005/Myleetcode/tree/master/0125-valid-palindrome) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/mdSamir052005/Myleetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
