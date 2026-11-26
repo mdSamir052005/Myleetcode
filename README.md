@@ -47,4 +47,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mdSamir052005/Myleetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/mdSamir052005/Myleetcode/tree/master/2349-design-a-number-container-system) |
+## Design
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/mdSamir052005/Myleetcode/tree/master/2349-design-a-number-container-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/mdSamir052005/Myleetcode/tree/master/2349-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/mdSamir052005/Myleetcode/tree/master/2349-design-a-number-container-system) |
 <!---LeetCode Topics End-->
